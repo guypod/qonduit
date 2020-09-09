@@ -37,7 +37,7 @@
         <!-- dependency versions -->
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
-        <version.accumulo>1.8.0</version.accumulo>
+        <version.accumulo>1.10.0</version.accumulo>
         <version.caffeine>2.4.0</version.caffeine>
         <version.commons-collections4>4.1</version.commons-collections4>
         <version.commons-lang3>3.5</version.commons-lang3>
@@ -50,7 +50,7 @@
         <version.jcip-annotations>1.0</version.jcip-annotations>
         <version.jsoup>1.9.2</version.jsoup>
         <version.junit>4.12</version.junit>
-        <version.log4j>2.8</version.log4j>
+        <version.log4j>2.13.2</version.log4j>
         <version.netty>4.0.46.Final</version.netty>
         <version.netty-tcnative>2.0.1.Final</version.netty-tcnative>
         <version.powermock>1.6.4</version.powermock>
